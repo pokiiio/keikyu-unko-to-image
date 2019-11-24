@@ -1,6 +1,3 @@
-***京急の運行情報ページに変更があったため、現在このライブラリは利用できません***
-***近日中に対応予定です***
-
 ![pokiiio keikyu-unko-to-image](https://lh3.googleusercontent.com/zWaiYGs85IA-GgWStEly3pJ-pO5kZxXU_rUddjnPCRxLqaJrb62u6qkR6LXiwtqshDdvr3CH1W8_QaL3DrYQOzBvaxg5B45jWWxWgFGAv1j1qYNzASHF8wRP8txY5EisQ1F1-pgjrlg=s600 "pokiiio keikyu-unko-to-image")
 
 # keikyu-unko-to-image

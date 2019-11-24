@@ -24,9 +24,11 @@ def text_to_image(text):
 
 def get_unko():
     response = requests.get(URL)
-    text = response.text.replace('\n', '').split('<div class=unko-panel>')[1].split('</div>')[0]
+    text = response.text.replace('\n', '').split(
+        '<a href="https://unkou.keikyu.co.jp/" target=_blank>')[1].split('</a>')[0]
     text = '          ' + text + '          '
     return text
+
 
 if __name__ == '__main__':
     text_to_image(get_unko()).save(IMAGE_FILE)
